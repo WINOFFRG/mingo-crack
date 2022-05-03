@@ -17,7 +17,10 @@ This tool is solely made for testing purposes. An you should respect the Creator
 2. Press `Windows + R` and type `%USERPROFILE%\AppData\Local\Programs\mingo\resources`
 3. Copy the `app.asar` from crack download directory and paste it in the above path.
 4. Open Windows Terminal in crack directory and type `./patcher.exe`.
-5. Now run Mingo and it will be automatically activated with a PRO License.
+5. You must allow Windows Firewall to run the patcher.
+6. Now run Mingo and it will be automatically activated with a PRO License.
+
+![Preview Image](assets/1.png)
 
 # ❓ Information
 1. Patcher for MacOS/Linux will be avaliable soon.
