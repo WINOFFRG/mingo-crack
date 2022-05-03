@@ -18,7 +18,11 @@ This tool is solely made for testing purposes. **And you should respect the Crea
 3. Copy the `app.asar` from crack download directory and paste it in the above path.
 4. Open Windows Terminal in crack directory and type `./patcher.exe`.
 5. You must allow Windows Firewall to run the patcher.
-6. Now run Mingo and goto `Mingo > License Key` and paste *`cracked-by-winoffrg`*. Then press `OK`. Then your product will be automatically activated.
+6. Now run Mingo and goto `Mingo > License Key` and paste below into License Key:
+```
+cracked-by-winoffrg
+```
+7. Then press `OK` and your product will be automatically activated. Enjoy! 🎉
 
 ![Preview Image](assets/1.png)
 ![Product Activated](assets/2.png)
