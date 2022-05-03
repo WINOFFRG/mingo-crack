@@ -6,7 +6,7 @@ As a Full Stack developer, I often work with MongoDB Compass. But, I find it to 
 Found myself [Mingo](https://mingo.io)! A really good MongoDB GUI Client with all the features that I was looking for and also with a great UI. ⭐
 
 ## ⚠️ NOTE:
-This tool is solely made for testing purposes. An you should respect the Creator's work by getting a licens for yourself. It is only meant to give you a trial of Paid version before you start using it. 🙂
+This tool is solely made for testing purposes. **And you should respect the Creator's work by getting a license for yourself**. It is only meant to give you a trial of Paid version before you buy it. 🙂
 
 # ⚙️Support:
 - Version: 1.8.0
