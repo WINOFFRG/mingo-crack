@@ -13,7 +13,7 @@ This tool is solely made for testing purposes. **And you should respect the Crea
 - OS: Windows
 
 ## 📑 Steps: 
-1. Download the latest release from this [link]() and extract the archive.
+1. Download the latest release from this [link](https://github.com/WINOFFRG/mingo-crack/releases/) and extract the archive.
 2. Press `Windows + R` and type `%USERPROFILE%\AppData\Local\Programs\mingo\resources`
 3. Copy the `app.asar` from crack download directory and paste it in the above path.
 4. Open Windows Terminal in crack directory and type `./patcher.exe`.
