@@ -1,5 +1,9 @@
 # Mingo Crack - PRO Activator
 
+`
+⚠️ UPDATE (15-06-22): To support the developer and an amazing MongoDB GUI Client - Mingo, I have removed all the releases of this crack. Neither this repo will no longer be maintained nor the crack would be released. It is requested to everyone to buy the product from their official site. https://mingo.io/
+`
+
 ## Why do I prefer Mingo over MongoDB Compass?
 As a Full Stack developer, I often work with MongoDB Compass. But, I find it to be a bit of a hassle to work with. Since then, I started looking out for some other MongoDB GUI Client which is has a little more better feel and a bit more advanced features. 🤷‍♂️
 
@@ -27,6 +31,6 @@ cracked-by-winoffrg
 ![Preview Image](assets/1.png)
 ![Product Activated](assets/2.png)
 
-# ❓ Information
-1. Patcher for MacOS/Linux will be avaliable soon.
-2. If the license gets deactivated, just run the patcher again.
+# ~❓ Information~
+1. ~Patcher for MacOS/Linux will be avaliable soon.~
+2. ~If the license gets deactivated, just run the patcher again.~
